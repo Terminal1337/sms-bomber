@@ -11,3 +11,5 @@ Star the Repo and Follow Me Or You wont be a 1337 coder
 
 
 ![image](https://user-images.githubusercontent.com/95563109/152781907-29f6cfc4-6eca-4cfd-8e7d-25a41cd0dae0.png)
+
+Discord: ~Terminal#1337
