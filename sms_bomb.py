@@ -4,6 +4,13 @@ from selenium import webdriver
 import time
 from colorama import Fore,init
 init(convert=True)
+
+def cls():
+    linux = "clear"
+    windows = "cls"
+    os.system([linux,windows][os.name=="nt"])
+
+cls()
  
 
 
